@@ -44,23 +44,6 @@ Modern irrigation systems require intelligent decision-making based on real-time
 
 ---
 
-### 🔧 Next Steps (Planned for Week 3)
-
-- Apply feature scaling using `MinMaxScaler`.
-- Train a multi-output classifier using `RandomForestClassifier`.
-- Evaluate model performance using `classification_report`.
-- Save the trained model using `joblib`.
-
----
-
-### 📌 Notes
-
-- No preprocessing (like normalization or feature engineering) has been applied yet.
-- Model training and evaluation are pending.
-- Improvement suggestions from Week 1 are noted but not yet implemented.
-
----
-
 ### 🧠 Tools & Libraries
 
 - Python
